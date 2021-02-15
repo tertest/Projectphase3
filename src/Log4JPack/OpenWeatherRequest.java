@@ -17,6 +17,8 @@ public class OpenWeatherRequest extends TestBase {
 		//declare the baseURL 
 		RestAssured.baseURI = "http://api.openweathermap.org/data/2.5/box";
 		//This specifices this is HTTP Protocol Specification
+		
+		
 		httpRequest = RestAssured.given();		
 	}
 	@Test
