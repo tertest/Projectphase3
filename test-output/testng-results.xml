@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5972" started-at="2021-02-14T20:37:34 EST" finished-at="2021-02-14T20:37:40 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5972" started-at="2021-02-14T20:37:34 EST" finished-at="2021-02-14T20:37:40 EST">
+      <class name="Log4JPack.ReqresRequests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Log4JPack.ReqresRequests@a7e666]" name="setup" is-config="true" duration-ms="91" started-at="2021-02-14T20:37:33 EST" finished-at="2021-02-14T20:37:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Log4JPack.ReqresRequests@a7e666]" name="BeforeMethod" is-config="true" duration-ms="705" started-at="2021-02-14T20:37:34 EST" finished-at="2021-02-14T20:37:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="GetListOfUsersRequest()[pri:0, instance:Log4JPack.ReqresRequests@a7e666]" name="GetListOfUsersRequest" duration-ms="3743" started-at="2021-02-14T20:37:34 EST" finished-at="2021-02-14T20:37:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetListOfUsersRequest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Log4JPack.ReqresRequests@a7e666]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2021-02-14T20:37:38 EST" finished-at="2021-02-14T20:37:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="CreateUserRequest()[pri:1, instance:Log4JPack.ReqresRequests@a7e666]" name="CreateUserRequest" duration-ms="534" started-at="2021-02-14T20:37:38 EST" finished-at="2021-02-14T20:37:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserRequest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Log4JPack.ReqresRequests@a7e666]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2021-02-14T20:37:39 EST" finished-at="2021-02-14T20:37:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="UpdateUserRequest()[pri:2, instance:Log4JPack.ReqresRequests@a7e666]" name="UpdateUserRequest" duration-ms="474" started-at="2021-02-14T20:37:39 EST" finished-at="2021-02-14T20:37:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUserRequest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Log4JPack.ReqresRequests@a7e666]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2021-02-14T20:37:39 EST" finished-at="2021-02-14T20:37:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="DeleteUserRequest()[pri:3, instance:Log4JPack.ReqresRequests@a7e666]" name="DeleteUserRequest" duration-ms="454" started-at="2021-02-14T20:37:39 EST" finished-at="2021-02-14T20:37:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserRequest -->
+      </class> <!-- Log4JPack.ReqresRequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+14/02/2021 20:37:38 ReqresRestAPI ****Inside checkStatusCode List users*******
+14/02/2021 20:37:38 ReqresRestAPI StatusCode Get list of users ==>200
+14/02/2021 20:37:38 ReqresRestAPI ********Inside checkStatusLine List Users*********
+14/02/2021 20:37:38 ReqresRestAPI StatusLine Get list of users ==>HTTP/1.1 200 OK
+14/02/2021 20:37:38 ReqresRestAPI ********Inside checkContentType List Users*********
+14/02/2021 20:37:38 ReqresRestAPI Content type is ==>application/json; charset=utf-8
+14/02/2021 20:37:39 ReqresRestAPI ****Inside checkStatusCode Create user*******
+14/02/2021 20:37:39 ReqresRestAPI StatusCode Createuser ==>201
+14/02/2021 20:37:39 ReqresRestAPI ********Inside checkStatusLine Create User*********
+14/02/2021 20:37:39 ReqresRestAPI StatusLine Create user ==>HTTP/1.1 201 Created
+14/02/2021 20:37:39 ReqresRestAPI ********Inside checkContentType Cerate User*********
+14/02/2021 20:37:39 ReqresRestAPI Content type is ==>application/json; charset=utf-8
+14/02/2021 20:37:39 ReqresRestAPI ****Inside checkStatusCode Update User*******
+14/02/2021 20:37:39 ReqresRestAPI StatusCode Update ==>200
+14/02/2021 20:37:39 ReqresRestAPI ********Inside checkStatusLine Update User*********
+14/02/2021 20:37:39 ReqresRestAPI StatusLine Update  ==>HTTP/1.1 200 OK
+14/02/2021 20:37:39 ReqresRestAPI ********Inside checkContentType Update User*********
+14/02/2021 20:37:39 ReqresRestAPI Content type is ==>application/json; charset=utf-8
+14/02/2021 20:37:40 ReqresRestAPI ****Inside checkStatusCode Delete*******
+14/02/2021 20:37:40 ReqresRestAPI StatusCode Delete ==>204
+14/02/2021 20:37:40 ReqresRestAPI ********Inside checkStatusLine Delete*********
+14/02/2021 20:37:40 ReqresRestAPI StatusLine Delete ==>HTTP/1.1 204 No Content
+14/02/2021 20:37:40 ReqresRestAPI ********Inside checkContentType Delete*********
